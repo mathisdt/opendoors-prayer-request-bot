@@ -1,4 +1,4 @@
 requests==2.32.5
-beautifulsoup4==4.14.0
+beautifulsoup4==4.14.2
 pydbus==0.6.0
 PyGObject==3.50.0    # older version on purpose, 3.51+ has problems
