@@ -17,3 +17,8 @@ and posts it to a Signal group using [signal-cli](https://github.com/AsamK/signa
    [venv](https://docs.python.org/3/library/venv.html) and install the requirements
    inside it (recommended).
 5. Execute `main.py` regularly, e.g. daily via cron.
+
+## License
+
+This project is licensed under GPL v3. If you submit or contribute changes, these are automatically licensed
+under GPL v3 as well. If you don't want that, please don't submit the contribution (e.g. pull request)!
